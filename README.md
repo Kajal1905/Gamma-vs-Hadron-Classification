@@ -71,9 +71,3 @@ The goal is to accurately distinguish between **Gamma events (signal)** and **Ha
   - Perform cross-validation for stronger generalisation.  
 
 ---
-
-## 🚀 How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/Gamma-vs-Hadron-Classification.git
-   cd Gamma-vs-Hadron-Classification
